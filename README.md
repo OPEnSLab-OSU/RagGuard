@@ -1,4 +1,12 @@
-# RagGuard Code
+# 🚽 RagGuard | [Wiki](https://github.com/OPEnSLab-OSU/RagGuard/wiki)
+Project Lead: **Dylan Heisey**
+Project Members: **Aiden Olsen**
+
+Sewer pipes carry waste that contains fats, oils, grease (FOG), and other debris that can cause buildup and complications in the system. The RagGuard project aims to protect sensors in these pipes from FOG and debris buildup that can affect the integrity of readings. Using a motor, the RagGuard periodically shakes itself and the sensor to reduce the amount of debris affecting the sensor's performance.
+
+More information about assembly, testing, and operation can be found at the [wiki](https://github.com/OPEnSLab-OSU/RagGuard/wiki).
+
+# ⚙️ RagGuard Programming Instructions
 
 ## Arduino UNO Setup:
 
