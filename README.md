@@ -17,8 +17,11 @@ More information about assembly, testing, and operation can be found at the [wik
 ## Install ATtiny85 board core:
 
 1. Go to `Settings`
-2. Add the following url to the additional board manager URLs: `http://drazzy.com/package_drazzy.com_index.json`
-3. In the `Board Manager` install search and install `ATtinyCore`
+2. Add the following url to the additional board manager URLs:
+   ```
+   http://drazzy.com/package_drazzy.com_index.json
+   ```
+3. In the `Board Manager` search for and install `ATtinyCore`
 
 ## Burn the bootloader:
 
