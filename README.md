@@ -39,4 +39,4 @@ More information about assembly, testing, and operation can be found at the [wik
 1. Set the board: `Tools > Board > ATTinyCore > ATtiny25/45/85 (no bootloader)`
 2. Set clock to `8MHz`
 3. Set programmer as `Arduino as ISP`
-4. Upload the `RagGuard.ino` sketch to the board
+4. Upload the `RagGuard.ino` sketch to the board w/ `Sketch > Upload Using Programmer`
