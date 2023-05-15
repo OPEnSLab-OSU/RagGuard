@@ -6,11 +6,14 @@
  */
 
 #define MOTOR_PIN 3
-#define MOTOR_ON_SEC 30
-#define MOTOR_OFF_MIN 60
+//#define MOTOR_ON_SEC 30
+//#define MOTOR_OFF_MIN 60
+#define MOTOR_ON_SEC 1
+#define MOTOR_OFF_SEC 1
 
 const long delay_on_ms = MOTOR_ON_SEC * 1000;
-const long delay_off_ms = MOTOR_OFF_MIN * 60 * 1000;
+//const long delay_off_ms = MOTOR_OFF_MIN * 60 * 1000;
+const long delay_off_ms = MOTOR_OFF_SEC * 1000;
 
 void setup() {
   // initialize motor pin low
